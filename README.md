@@ -11,7 +11,7 @@ This project is a blog website built using TypeScript, React, and PostgreSQL. It
 ## Features
 - User registration and login
 - JWT authentication
-- Blog post creation, editing, and deletion
+- Blog post creation
 - Display of blog posts
 - Responsive design
 
@@ -19,3 +19,5 @@ This project is a blog website built using TypeScript, React, and PostgreSQL. It
 - **TypeScript**
 - **React**
 - **PostgreSQL**
+- **Prisma**
+  
