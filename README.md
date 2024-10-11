@@ -1,5 +1,6 @@
 # Blog Website
-![Screenshot 2024-10-09 184818](https://github.com/user-attachments/assets/23d6a7dc-5356-470e-84bc-770256fb5dee)
+
+![Screenshot 2024-10-11 215908](https://github.com/user-attachments/assets/04266560-b833-4447-86b8-529a67f72b8d)
 
 
 ## Description
